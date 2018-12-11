@@ -1,2 +1,0 @@
-# vector.h
-PR2
